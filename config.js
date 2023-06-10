@@ -7,10 +7,10 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰ 
 global.owner = [
-  ['923470027813', 'IKRATOS 💖🇵🇰', true],
-  ['923191089077', 'IKRATOS 2 💖🇵🇰', true],
-  ['17865907220', 'IKRATOS 3 💖🇵🇰', true],
-  ['923470027813', 'Ahmad Ali | 𝙀𝙍𝙍𝙊𝙍𝙀𝙎 💖🇵🇰', true],
+  ['254736958034', 'KHALID 💖', true],
+  ['254712913436', 'KHALID 2 💖', true],
+  ['254114098508', 'KHALID 3 💖', true],
+  ['923470027813', 'Khalid niccur| 𝙀𝙍𝙍𝙊𝙍𝙀𝙎 🇰', true],
   ['923470027813'],
   ['923191089077'],
   ['17865907220'], 
@@ -19,8 +19,8 @@ global.owner = [
 
 global.mods = [] 
 global.prems = [
-  ['923470027813'],
-  ['923191089077'],
+  ['254736958034'],
+  ['254712913436'],
   ['17865907220'],
 ]
   
@@ -104,8 +104,8 @@ global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = 'x_ikratos_x'
-global.author = 'Ahmad Ali 🇵🇰'
+global.packname = 'khalid'
+global.author = 'OFC'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
